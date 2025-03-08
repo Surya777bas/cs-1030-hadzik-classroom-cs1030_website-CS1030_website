@@ -23,5 +23,5 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 [Github Themes](https://pages.github.com/themes/)
 
 
-<img src="/assets/img/Suryansha_Basnet.jpg" alt="Suryanha Basnet profile picture">
+<img src="assets/img/Suryansha_Basnet.jpg" alt="Suryanha Basnet profile picture">
 
