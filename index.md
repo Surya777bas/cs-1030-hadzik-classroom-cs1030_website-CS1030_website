@@ -21,7 +21,4 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 [Link to another page](./another-page.html).
 
 [Github Themes](https://pages.github.com/themes/)
-
-
-<img src="assets/img/Suryansha_Basnet.jpg" alt="Suryanha Basnet profile picture">
-
+![Suryanha Basnet profile picture](assets/img/Suryansha_Basnet.jpg)
